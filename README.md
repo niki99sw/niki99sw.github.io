@@ -1,6 +1,5 @@
 # niki99sw.github.io
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
