@@ -72,7 +72,7 @@
 
 <div class="container">
     <div class="main-content">
-        <img src="your-photo.jpg" alt="Your Photo" class="profile-img">
+        <img src="C:\Users\nikol\Desktop\NTPU\Software Engineering\Bewerbungsfoto1.JPG" alt="Your Photo" class="profile-img">
         <h2>About Me</h2>
         <p>Hello! I'm Nikolas Pogodda. Welcome to my personal website. Here you can learn more about me!.</p>
 
