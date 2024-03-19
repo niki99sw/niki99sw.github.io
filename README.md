@@ -67,13 +67,14 @@
 <body>
 
 <header>
-    <h1>Welcome to my website!!"</h1>
+    <h1>Welcome to my personal website!!"</h1>
 </header>
 
 <div class="container">
     <div class="main-content">
-        <h2>Über mich</h2>
-        <p>Hello! I am Nikolas Pogodda. Wwelcome to my own website. Here you can learn something new about me.</p>
+        <img src="your-photo.jpg" alt="Your Photo" class="profile-img">
+        <h2>About Me</h2>
+        <p>Hello! I'm Nikolas Pogodda. Welcome to my personal website. Here you can learn more about me!.</p>
 
         <h2>Projekte</h2>
         <ul>
